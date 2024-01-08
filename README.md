@@ -17,15 +17,6 @@ Notes Pro is a feature-rich notes app designed for seamless organization and pro
 - Create a new note
 - Customize formatting
 
-## Contributing
-We welcome contributions! Please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-For support or collaboration, reach out to [your@email.com](mailto:your@email.com).
+For support or collaboration, reach out to akshatpradhan2003@gmail.com
 
-## Acknowledgments
-- [Library Name](link)
-- [Another Library](link)
