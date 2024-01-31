@@ -10,8 +10,7 @@ Notes Pro is a feature-rich notes app designed for seamless organization and pro
 
 ## Getting Started
 1. Clone the repository
-2. Install dependencies
-3. Run the app
+2. Run the app
 
 ## Usage
 - Create a new note
