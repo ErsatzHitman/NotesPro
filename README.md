@@ -1,6 +1,6 @@
 # Notes Pro
 
-Notes Pro is a feature-rich notes app designed for seamless organization and productivity, made using Java,XML for Frontend and Firebase for Backend.
+Notes Pro is a feature-rich notes app designed for seamless organization and productivity, made using Java and XML for Frontend and Firebase for Backend.
 
 ## Features
 - Create, edit, and delete notes
