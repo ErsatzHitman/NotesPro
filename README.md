@@ -14,3 +14,10 @@ Notes Pro is a feature-rich notes app designed for seamless organization and pro
 ## Contact
 For support or collaboration, reach out to akshatpradhan2003@gmail.com
 
+## Preview
+
+
+
+https://github.com/ErsatzHitman/NotesPro/assets/26683505/c26f417c-20df-423e-a34a-3594fe7944aa
+
+
